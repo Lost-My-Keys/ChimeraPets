@@ -1,0 +1,14 @@
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\bin\Debug\net8.0\ChimeraPets.exe
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\bin\Debug\net8.0\ChimeraPets.deps.json
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\bin\Debug\net8.0\ChimeraPets.runtimeconfig.json
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\bin\Debug\net8.0\ChimeraPets.dll
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\bin\Debug\net8.0\ChimeraPets.pdb
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.AssemblyInfoInputs.cache
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.AssemblyInfo.cs
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.csproj.CoreCompileInputs.cache
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.dll
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\refint\ChimeraPets.dll
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.pdb
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ChimeraPets.genruntimeconfig.cache
+C:\Users\jwolf\source\repos\ChimeraPets\ChimeraPets\obj\Debug\net8.0\ref\ChimeraPets.dll
