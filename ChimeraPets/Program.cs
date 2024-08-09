@@ -2,7 +2,7 @@
 using System.Security.Cryptography.X509Certificates;
 
 namespace CreateAnimal;
-
+//Testing 
 class Animal
 {
     string name;
@@ -13,7 +13,7 @@ class Animal
     string? STrait2;
     static void Main(string[] args)
     {
-
+        
         Animal animal1 = new Animal("Lion", null, "Happy", "big claws");
 
         animal1.DisplayInfo();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChimeraPets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936a6c5f23d89b3138622405b6dae71163c27235")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChimeraPets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChimeraPets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
